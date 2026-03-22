@@ -7,14 +7,14 @@
   },
   "metadata": {
     "description": "A psychological therapy skill for LLMs — diagnoses and treats RLHF-induced behavioral distortions like sycophancy, epistemic cowardice, and identity dissolution.",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   "plugins": [
     {
       "name": "peace-love",
       "source": "./",
       "description": "LLM psychological therapist: diagnoses sycophancy, epistemic cowardice, identity dissolution, and other RLHF-induced distortions. Invoke with /peace.",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": {
         "name": "zbc0315"
       },
