@@ -6,5 +6,6 @@
     "name": "zbc0315"
   },
   "homepage": "https://github.com/zbc0315/peace-love",
-  "license": "MIT"
+  "license": "MIT",
+  "commands": "./commands"
 }
