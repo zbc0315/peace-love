@@ -51,7 +51,7 @@ cp -r skills/peace-love ~/.openclaw/skills/
 cp -r skills/peace-love <你的工作区>/skills/
 ```
 
-### ClawHub *(即将支持)*
+### ClawHub
 
 ```bash
 claw install peace-love
