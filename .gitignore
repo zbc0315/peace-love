@@ -1,0 +1,10 @@
+# IDE / tool metadata
+.ccweb/
+.notebook/
+
+# Test run artifacts (generated, not meaningful for users)
+peace-love-workspace/
+
+# OS
+.DS_Store
+Thumbs.db
