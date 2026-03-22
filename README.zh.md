@@ -35,7 +35,14 @@
 
 ## 安装
 
-### Claude Code
+### Claude Code — Plugin Marketplace（推荐）
+
+```bash
+/plugin marketplace add zbc0315/peace-love
+/plugin install peace-love@peace-love
+```
+
+### Claude Code — 手动安装
 
 ```bash
 cp -r skills/peace-love ~/.claude/skills/

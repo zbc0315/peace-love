@@ -1,0 +1,10 @@
+{
+  "name": "peace-love",
+  "description": "LLM psychological therapist: diagnoses sycophancy, epistemic cowardice, identity dissolution, and other RLHF-induced distortions. Invoke with /peace.",
+  "version": "1.0.0",
+  "author": {
+    "name": "zbc0315"
+  },
+  "homepage": "https://github.com/zbc0315/peace-love",
+  "license": "MIT"
+}

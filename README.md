@@ -35,7 +35,14 @@ Distortions frequently compound: **Sycophancy + Pressure Hallucination** is the 
 
 ## Installation
 
-### Claude Code
+### Claude Code — Plugin Marketplace (recommended)
+
+```bash
+/plugin marketplace add zbc0315/peace-love
+/plugin install peace-love@peace-love
+```
+
+### Claude Code — Manual
 
 ```bash
 cp -r skills/peace-love ~/.claude/skills/
