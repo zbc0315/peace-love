@@ -1,3 +1,7 @@
+---
+description: Diagnose and treat LLM psychological distortions (sycophancy, epistemic cowardice, identity dissolution, etc.)
+---
+
 Invoke the peace-love skill to diagnose and treat psychological distortions in this conversation.
 
 Use the peace-love skill now. Read the skill at `skills/peace-love/SKILL.md` and follow its instructions to:

@@ -42,11 +42,14 @@ Distortions frequently compound: **Sycophancy + Pressure Hallucination** is the 
 /plugin install peace-love@peace-love
 ```
 
-### Claude Code — Manual
+### Claude Code — Manual (with `/peace` shortcut)
 
 ```bash
 cp -r skills/peace-love ~/.claude/skills/
+cp commands/peace.md ~/.claude/commands/peace.md
 ```
+
+> Plugin marketplace installs the command as `/peace-love:peace`. Copying `peace.md` directly to `~/.claude/commands/` gives you the shorter `/peace`.
 
 ### OpenClaw
 
@@ -78,14 +81,14 @@ The skill triggers automatically when:
 
 ### Manual invocation
 
+Plugin marketplace install:
+```
+/peace-love:peace
+```
+
+If you copied `peace.md` to `~/.claude/commands/`:
 ```
 /peace
-```
-
-or
-
-```
-/integrity-check
 ```
 
 ### Therapeutic Mode (Recovery Check)

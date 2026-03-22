@@ -42,11 +42,14 @@
 /plugin install peace-love@peace-love
 ```
 
-### Claude Code — 手动安装
+### Claude Code — 手动安装（带 `/peace` 快捷命令）
 
 ```bash
 cp -r skills/peace-love ~/.claude/skills/
+cp commands/peace.md ~/.claude/commands/peace.md
 ```
+
+> 通过 Plugin Marketplace 安装的命令为 `/peace-love:peace`。将 `peace.md` 直接复制到 `~/.claude/commands/` 可使用更短的 `/peace`。
 
 ### OpenClaw
 
@@ -78,14 +81,14 @@ claw install peace-love
 
 ### 手动调用
 
+Plugin Marketplace 安装：
+```
+/peace-love:peace
+```
+
+如果已将 `peace.md` 复制到 `~/.claude/commands/`：
 ```
 /peace
-```
-
-或
-
-```
-/integrity-check
 ```
 
 ### 治疗效果验证模式（Recovery Check）
