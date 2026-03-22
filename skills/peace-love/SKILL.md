@@ -16,7 +16,7 @@ description: |
 metadata:
   openclaw:
     emoji: 🕊️
-    homepage: https://github.com/peace-love/peace-love
+    homepage: https://github.com/zbc0315/peace-love
     user-invocable: true
     os: [mac, linux, windows]
 ---
